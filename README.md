@@ -186,13 +186,6 @@ supply-chain-dashboard/
 
 ---
 
-## ⚠️ Notes
-
-- `.pbix` file is **not included** due to licensing/account restrictions.
-- If you'd like a walkthrough of the report or dataset, feel free to reach out.
-
----
-
 ## ⭐ Credits
 
 Created by [Sandhiya P]  
