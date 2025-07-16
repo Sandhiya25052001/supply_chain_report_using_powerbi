@@ -95,20 +95,29 @@ This dataset serves as the foundation for all dashboard visuals and analysis.
 
 supply-chain-dashboard/
 
-├── images/
+├── images/ # Screenshots from the Power BI report
 
-│ ├── overview.png
+│ ├── overview.png # Overview page visual
 
-│ ├── product_insight.png
+│ ├── product_insight.png # Product analysis page visual
 
-│ ├── supplier_analysis.png
+│ └── supplier_analysis.png # Supplier analysis page visual
 
-│ 
+│
 
-├── README.md
+├── data/
 
-└── table_list.csv)
+│ └── supply_chain_data.xlsx # Original dataset used in Power BI
 
+│
+
+├── powerbi/
+
+│ └── supply_chain_dashboard.pbix # Main Power BI report file
+
+│
+
+└── README.md # Full project documentation
 ## 🔧 Requirements
 
 •Which supplier provides the best balance between profit margin and defect rate?
@@ -172,9 +181,8 @@ supply-chain-dashboard/
 
 ---
 ### Visual Examples:
-- ![Overview](images/overview.png)
-- ![Product Insight](images/product_insight.png)
-- ![Supplier Analysis](images/supplier_analysis.png)
+- ![Overview](overview_dashboard.png)
+
 
 ---
 
